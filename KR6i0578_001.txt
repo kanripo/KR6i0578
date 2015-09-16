@@ -1,22 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:03.230990
+#+DATE: 2015-08-30 20:23:04.688423
 #+TITLE: 外道問聖大乘法無我義經
 #+PROPERTY: CBETA_ID T17n0846
 #+PROPERTY: ID KR6i0578
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 846
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0578_T_000-0934a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0578_T_001-0934a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.846¶
-
- 《外道問聖大乘法無我義經》¶
+No. 846¶
+《外道問聖大乘法無我義經》¶
 ¶
-西天譯經三藏朝散大夫¶
+西天譯經三藏朝散大夫試鴻臚少卿傳教大師臣法天奉　詔譯譯經三藏朝散大夫¶
 試鴻臚少卿傳教大師臣¶
 法天奉　詔譯¶
 
@@ -132,7 +131,7 @@ No.846¶
 真如呪及金剛鈴真如無生印，而起真如相¶
 應之行，決定圓滿如上功德。」¶
 
-爾時外道聞是語已審諦觀察，而彼疑綱皆¶
+爾時外道聞是語已審諦觀際，而彼疑綱皆¶
 悉除斷，作是觀已獲住大乘，瞻奉歡喜，作禮¶
 而退。¶
 《外道問聖大乘無我義經》
