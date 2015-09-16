@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 外道問聖大乘法無我義經
+#+DATE: 2015-08-30 20:23:03.482648
+#+PROPERTY: JUAN 0
