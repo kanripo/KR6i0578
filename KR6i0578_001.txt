@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:04.247298
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:57
 #+TITLE: 外道問聖大乘法無我義經
 #+PROPERTY: CBETA_ID T17n0846
 #+PROPERTY: ID KR6i0578
